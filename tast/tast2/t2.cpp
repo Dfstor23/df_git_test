@@ -3,7 +3,7 @@
 #include <string>
 #include <limits>
 #include <iomanip> // 用于格式化输出
-
+//错误删除痕迹
 using namespace std;
 
 struct Transaction {
